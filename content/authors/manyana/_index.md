@@ -4,18 +4,18 @@ title: Manyana Tiwari
 
 # Username (this should match the folder name)
 authors:
-- nikhar
+- manyana
 
 # Is this the primary user of the site?
 superuser : false
 
 
-weight : 10
+weight : 1
 
 
 
 # Role/position
-# #role: Jedi Master
+role: Discussion Head
 
 # Organizations/Affiliations
 organizations:

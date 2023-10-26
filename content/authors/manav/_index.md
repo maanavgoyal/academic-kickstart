@@ -10,12 +10,12 @@ authors:
 superuser : false
 
 
-weight : 10
+weight : 1
 
 
 
 # Role/position
-# #role: Jedi Master
+role: Project Head
 
 # Organizations/Affiliations
 organizations:

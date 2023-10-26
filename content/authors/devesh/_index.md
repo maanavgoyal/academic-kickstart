@@ -9,10 +9,10 @@ authors:
 # Is this the primary user of the site?
 superuser : false
 
-weight : 10
+weight : 1
 
 # Role/position
-# #role: Padawan
+role: Co-President
 
 # Organizations/Affiliations
 organizations:

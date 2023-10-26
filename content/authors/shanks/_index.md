@@ -9,10 +9,10 @@ authors:
 # Is this the primary user of the site?
 superuser : false
 
-weight : 10
+weight : 2
 
 # Role/position
-# #role: Padawan
+role: Director Of Operations
 
 # Organizations/Affiliations
 organizations:
