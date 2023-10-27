@@ -20,7 +20,7 @@
 
 [[main]]
   name = "Papers We Read"
-  url = "papers_we_read/"
+  url = "papers_we_read/summaries"
   weight = 41
 
 [[main]]
@@ -31,7 +31,7 @@
 [[main]]
   name = "Blogs"
   url = "#posts"
-  weight = 60
+  weight = 35
 
 [[main]]
   name = "Team"

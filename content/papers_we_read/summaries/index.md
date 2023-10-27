@@ -1,4 +1,8 @@
-# Deep Learning Paper Summaries
+---
+title: "Deep Learning Paper Summaries" 
+date: 1988-03-14
+---
+<!-- # Deep Learning Paper Summaries -->
 
 ## Introduction
 
